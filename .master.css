@@ -1,0 +1,117 @@
+div{
+   width: full;
+   margin: 10px;
+   height: full;
+   color: orange;
+   background-color: black;
+   padding: 2px;
+   border: 2px;
+   border-radius: 2px;
+}
+.one {
+   display: flex;
+   margin-bottom: 0px;
+
+}
+.two{
+   padding-left:3px ;
+   color: white;
+
+}
+.three{
+   display: flex;
+   padding-top: 0px;
+   padding-left: 2px;
+   margin-left: 2px;
+   margin: -3px;
+   text-align: center;
+   margin-top: 0px;
+   
+}
+.div{
+   margin-top: 0px;
+
+}
+.four{
+   padding-left: 3px;
+   padding-right: 5px;
+   color: white;
+}
+.five{
+   padding: 5px;
+}
+.six{
+   padding: 5px;
+}
+.siven{
+   padding: 5px;
+}
+.nine{
+   display: inline-block;
+   padding: 10px;
+   font-size: 2rem;
+   font-weight: 800;
+   color: white;
+   background-color: brown;
+   text-align: center;
+   justify-content: center;
+   padding-top: 35px;
+   padding-left: 90px;
+   padding-right: 35px;
+   margin-bottom: 0px;
+   clip-path: polygon(0 0, 100% 0, 88% 100%, 0 100%);
+}
+.ten{
+   text-align: center;
+   color: white;
+}
+.elven{
+text-align: center;
+color: white;
+font-size: large;
+font:bold
+}
+span{
+   color: orange;
+}
+.twoelv{
+   background-color: brown;
+   color: white;
+   text-align: center;
+   padding: 5px;
+   padding-left: ;
+   width: 100px;
+   display: block;
+   font: bolder;
+   border: 2px;
+   border-color: brown;
+}
+.therte{
+   background-color:black;
+   color: white;
+   text-align: center;
+   padding: 5px;
+   width: 150;
+   display: block;
+   font: bolder;
+   border: 2px;
+   border-color: black;
+}
+.button{
+   display: flex;
+   justify-content: center;
+   gap: 15px;
+   width: 100%;
+   margin-top: 20px;
+   background: transparent;
+}
+.div{
+   background-image: url(https://media.istockphoto.com/id/601158224/photo/aerial-view-of-a-downtown-la-at-sunset.jpg?s=1024x1024&w=is&k=20&c=-wbQX0ufw1r7h6ULvXYw_oIIzevxiL7oMI5fQU16Zj8=);
+   width: full;
+   
+   background-position: center bottom;
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin-top: 0px;
+   background: -moz-linear-gradient(to bottom,rgba(40,45,50,0.95)0% rgba(30,33,40,0.6)50% rgba(20,20,25,0.5)100%)
+}
